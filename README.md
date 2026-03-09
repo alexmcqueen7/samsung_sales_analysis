@@ -11,6 +11,10 @@ This project uses a Samsung Global Product Sales Dataset, which simulates a real
 5. How is 5G adoption impacting sales revenue and units sold across regions?
 
 ## Results
-
+1. f
+2. 
+3.
+4.
+5.  
 
 ## Conclusion
