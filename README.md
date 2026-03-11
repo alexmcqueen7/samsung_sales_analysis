@@ -11,10 +11,14 @@ This project uses a Samsung Global Product Sales Dataset, which simulates a real
 5. How is 5G adoption impacting sales revenue and units sold across regions?
 
 ## Results
-1. Europe holds the highest share of Samsung's revenue between 2021 and 2024, with its share averaging at a little over a third of the global  total. This is closely followed by Asia, who's revenue and sales share sits at approximately 29% of the global total. Across the four year period shown in the data, there is a negligible change in the revenue/sales share of each region. 
-2. 
-3.
+1. Europe holds the highest share of Samsung's revenue between 2021 and 2024, with its share averaging at a little over a third of the global  total. This is closely followed by Asia, who's revenue and sales share sits at approximately 29% of the global total. Across the four year period shown in the data, there is a negligible change in the revenue/sales share of each region. The top 5 countries driving revenue are Greece, UAE, Austria, Norway, and France, respectively.
+   
+2. Due to its high Average Selling Price (ASP), the Smart TV product category earned the highest revenue at US$5,559,000 despite only being 8% of total sales. Contrastingly, Samsung Accessories 
+
+3.  
+
 4.
-5.  
+
+5.
 
 ## Conclusion
