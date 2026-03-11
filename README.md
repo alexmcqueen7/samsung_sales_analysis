@@ -13,12 +13,14 @@ This project uses a Samsung Global Product Sales Dataset, which simulates a real
 ## Results
 1. Europe holds the highest share of Samsung's revenue between 2021 and 2024, with its share averaging at a little over a third of the global  total. This is closely followed by Asia, who's revenue and sales share sits at approximately 29% of the global total. Across the four year period shown in the data, there is a negligible change in the revenue/sales share of each region. The top 5 countries driving revenue are Greece, UAE, Austria, Norway, and France, respectively.
    
-2. Due to its high Average Selling Price (ASP), the Smart TV product category earned the highest revenue at US$5,559,000 despite only being 8% of total sales. Contrastingly, Samsung Accessories 
+2. Due to its high Average Selling Price (ASP), premium Smart TV models are the strongest drivers of revenue, generating approximately $5.56M, making this the top-performing product category. Flagship smartphones also contribute significantly, with the Galaxy S line producing around $4.73M and the Galaxy Z foldable series generating about $2.77M. This indicates that high-end consumer electronics—particularly premium televisions and flagship mobile devices—play a central role in Samsung’s revenue performance. At the individual product level, several premium devices stand out as major contributors. The Samsung Neo QLED 8K QN900C generated the highest revenue at roughly $2.23M, followed by the Samsung OLED S95C 65-inch and other high-end television models. Foldable smartphones such as the Samsung Galaxy Z Fold 5 also rank among the top-performing products, highlighting strong demand for innovative and premium mobile technology within Samsung’s portfolio.
 
-3.  
+3. Discounts appear to have a moderate but not dramatic effect on purchasing behaviour across the dataset. Most transactions include relatively small discounts (typically under 20%), and the analysis shows that average units sold per transaction remain fairly consistent across discount ranges. However, the majority of total revenue is generated within the 0–5% discount range, suggesting that strong product demand allows many Samsung products to sell at minimal promotional reductions. Across regions and product categories, discount levels are also relatively similar, generally averaging around 5–6%. High-revenue categories such as Smart TVs and Galaxy S smartphones maintain strong sales despite modest discounting, while regions like Europe and Asia generate the highest total revenue without significantly higher discount rates. This indicates that revenue performance is driven more by product demand and market size than by aggressive discounting strategies.
 
-4.
+5.  
 
-5.
+6.
+
+7.
 
 ## Conclusion
