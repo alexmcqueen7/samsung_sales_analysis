@@ -1,3 +1,5 @@
+-- How do discounts affect revenue and units sold across regions and product categories?
+
 WITH discount AS (
     SELECT
         CASE
