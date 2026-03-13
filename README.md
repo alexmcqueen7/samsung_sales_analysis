@@ -5,7 +5,7 @@ This project uses a Samsung Global Product Sales Dataset, which simulates a real
 
 ## Questions Answered
 1. Which regions and countries generate the most revenue, and how is this changing over time?
-2. Which products and product categories are driving the highest revenue?
+2. Which products and product categories are driving the highest revenue globally and across regions?
 3. How do discounts affect revenue and units sold across regions and product categories?
 4. Which sales channels and customer segments are most profitable, and how do demographics affect purchasing behavior?
 5. How is 5G adoption impacting sales revenue and units sold across regions?
