@@ -1,3 +1,4 @@
+```ruby
 SELECT
     region,
     EXTRACT(YEAR FROM sale_date) AS year,
@@ -7,3 +8,4 @@ SELECT
 FROM samsung_sales.sales_clean
 GROUP BY region, year
 ORDER BY region, year;
+```
