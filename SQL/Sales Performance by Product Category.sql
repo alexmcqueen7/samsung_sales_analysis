@@ -1,3 +1,5 @@
+-- Which products and product categories are driving the highest revenue globally and across regions?
+
 WITH product_region AS (
     SELECT
         region,
