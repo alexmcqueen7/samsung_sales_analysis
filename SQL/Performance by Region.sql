@@ -1,3 +1,5 @@
+-- Q1. Which regions and countries generate the most revenue, and how is this changing over time?
+
 SELECT
     region,
     EXTRACT(YEAR FROM sale_date) AS year,
